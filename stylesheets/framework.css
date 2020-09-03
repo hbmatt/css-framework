@@ -76,10 +76,10 @@ table {
   .w-90 {
     width: 90% !important; } }
 @media (min-width: 768px) and (max-width: 1023px) {
-  .container {
+  .container, .navbar, .footer {
     width: 758px; } }
 @media (min-width: 1024px) {
-  .container {
+  .container, .navbar, .footer {
     max-width: 960px; } }
 body {
   font-size: 1em;
